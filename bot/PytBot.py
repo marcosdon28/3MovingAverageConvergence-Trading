@@ -8,8 +8,7 @@ init()
 
 datajson = {}
 
-client = Client('STxr02bhTKkhYIDfUcfBONn55IS5zroXmL08SFyyRJPiE8R66U1hmPFp3gPBYnHd'
-,'PncjNDFluWKxGKwMO2ibYaIFkxZc3tcJGJup6XrMXyShOa3XSSqaJzEGjE3MOz88', tld = 'com')
+client
 
 
 def busd_par_filter():
